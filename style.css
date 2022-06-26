@@ -1,0 +1,50 @@
+header{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.option{
+    position: absolute;
+    left: 380px;
+    top: 310px;
+
+}
+
+button{
+    cursor: pointer;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+
+.joueur{
+    text-align: center;
+}
+
+.v{
+    text-align: center;
+}
+
+#result{
+    position: absolute;
+    left: 400px;
+    top: 270px;
+}
+
+.show{
+
+    width: 210px;
+    border-radius: 25%;
+    transform: translateX(200px);
+}
+
+.show-{
+    position: absolute;
+    top: 70px;
+    left: 400px;
+
+    width: 200px;
+    border-radius: 25%;
+    transform: translateX(200px);
+}
+
